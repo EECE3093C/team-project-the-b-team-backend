@@ -1,4 +1,4 @@
-# **Software Engineering Semester Project**
+# **Meal Prepper Pro**
  **The B Team** - Nick DeSilva, Scott Hahn, and Abdullah Syed
 
 
